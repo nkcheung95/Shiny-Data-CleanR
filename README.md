@@ -14,7 +14,7 @@ All other packages are installed automatically on first run.
 Paste the following into your RStudio console and press Enter:
 
 ```r
-source("https://github.com/nkcheung95/FMD-Diameter-Cleaner/blob/main/FMD-Dia-Clean-load.r?raw=TRUE")
+source("https://github.com/nkcheung95/Shiny-Data-CleanR/blob/main/CleanR-load.r?raw=TRUE")
 ```
 
 ## Data import

@@ -110,7 +110,7 @@ load_file <- function(path, ext, delimiter) {
 # ── UI ─────────────────────────────────────────────────────────────────────────
 
 ui <- fluidPage(
-  titlePanel("FMD DIAMETER CLEANER v0.2"),
+  titlePanel("DATA CLEANER v0.2"),
 
   sidebarLayout(
     sidebarPanel(

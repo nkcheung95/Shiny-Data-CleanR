@@ -1,4 +1,4 @@
-# Data Cleaner v0.2
+#Shiny Data CleanR v0.2
 
 For cleaning diameter (or any continuous physiological) data from LabChart 8 or any source.
 

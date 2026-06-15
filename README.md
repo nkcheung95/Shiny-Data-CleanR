@@ -1,7 +1,3 @@
-Here is the updated, markdown-formatted `README.md` reflecting the new dynamic header row selection feature, the user-customizable vertical lines, and the removal of the rigid 60s/360s restriction.
-
----
-
 # Shiny Data CleanR v0.2
 
 For cleaning diameter (or any continuous physiological) data from LabChart 8 or any source.
